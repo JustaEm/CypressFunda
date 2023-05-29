@@ -1,0 +1,16 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "keywords": [],
+  "description": ""
+}
